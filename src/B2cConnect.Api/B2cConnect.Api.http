@@ -1,0 +1,6 @@
+@B2cConnect.Api_HostAddress = http://localhost:5221
+
+GET {{B2cConnect.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
